@@ -93,7 +93,7 @@ export default function FlavorsTable({ rows, locale }: { rows: Row[]; locale: Lo
 								key={flavor.name}
 								className="border-b border-[#ece5d8] last:border-b-0 align-top"
 							>
-								<td className="w-64 px-4 py-4">
+								<td className="w-64 px-4 py-4 border-r border-[#ece5d8]">
 									<span className="text-base font-black uppercase tracking-wider">
 										{flavor.name}
 									</span>
