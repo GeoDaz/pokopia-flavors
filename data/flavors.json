@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Bitter",
+    "items": [
+      { "name": "Rawst Berry", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/rawst-berry.png" },
+      { "name": "Potato", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/potato.png" },
+      { "name": "Seaweed", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seaweed.png" },
+      { "name": "Seaweed salad", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seaweed-salad.png" },
+      { "name": "Seaweed soup", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/seaweed-soup.png" },
+      { "name": "Recycled bread", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/recycled-bread.png" },
+      { "name": "Bitter hamburger steak", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bitter-hamburger-steak.png" }
+    ]
+  },
+  {
+    "name": "Dry",
+    "items": [
+      { "name": "Chesto Berry", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/chesto-berry.png" },
+      { "name": "Wheat", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/wheat.png" },
+      { "name": "Cave mushrooms", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/cave-mushrooms.png" },
+      { "name": "Crushed-berry salad", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/crushed-berry-salad.png" },
+      { "name": "Mushroom soup", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/mushroom-soup.png" },
+      { "name": "Mushroom hamburger steak", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/mushroom-hamburger-steak.png" },
+      { "name": "Roserade Tea", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/roserade-tea.png" }
+    ]
+  },
+  {
+    "name": "Sweet",
+    "items": [
+      { "name": "Pecha Berry", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/pecha-berry.png" },
+      { "name": "Bean", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bean.png" },
+      { "name": "Leppa salad", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leppa-salad.png" },
+      { "name": "Fluffy bread", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fluffy-bread.png" },
+      { "name": "Potato hamburger steak", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/potato-hamburger-steak.png" },
+      { "name": "Moomoo Milk Coffee", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/moomoo-milk-coffee.png" },
+      { "name": "Common candy", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/common-candy.png" },
+      { "name": "Rare Candy", "image": "https://www.serebii.net/pokemonpokopia/items/rarecandy.png" }
+    ]
+  },
+  {
+    "name": "Sour",
+    "items": [
+      { "name": "Aspear Berry", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/aspear-berry.png" },
+      { "name": "Tomato", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tomato.png" },
+      { "name": "Shredded salad", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/shredded-salad.png" },
+      { "name": "Flavorful soup", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/flavorful-soup.png" },
+      { "name": "Leppa bread", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/leppa-bread.png" },
+      { "name": "Tomato hamburger steak", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/tomato-hamburger-steak.png" },
+      { "name": "Soda Pop", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/soda-pop.png" }
+    ]
+  },
+  {
+    "name": "Spicy",
+    "items": [
+      { "name": "Fresh carrot", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/fresh-carrot.png" },
+      { "name": "Crouton salad", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/crouton-salad.png" },
+      { "name": "Electrifying soup", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/electrifying-soup.png" },
+      { "name": "Healthy soup", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/healthy-soup.png" },
+      { "name": "Carrot bread", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/carrot-bread.png" },
+      { "name": "Bread bowl", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/bread-bowl.png" },
+      { "name": "Chili sauce", "image": "https://pub-63d9fdd35f184b7c82eb49a6ebead636.r2.dev/items/chili-sauce.png" }
+    ]
+  }
+]
